@@ -76,6 +76,7 @@ AI 方案选择：Prompt / Workflow / RAG / Fine-tuning / Agent / Tool
 
 | 文档 | 内容 |
 |---|---|
+| [00-ai-product-manager-core-capability-framework.md](docs/00-ai-product-manager-core-capability-framework.md) | **AI 产品经理核心能力总纲**：需求判断、产品评测、上下文工程及构建、产品化与经营能力 |
 | [01-learning-framework.md](docs/01-learning-framework.md) | 六层能力模型、学习方法与掌握标准 |
 | [02-core-concepts.md](docs/02-core-concepts.md) | AI、LLM、RAG、微调、Agent、评测与工程术语定义 |
 | [03-rag-engineering.md](docs/03-rag-engineering.md) | 从数据接入到检索、重排、生成、权限与版本治理 |
@@ -86,6 +87,7 @@ AI 方案选择：Prompt / Workflow / RAG / Fine-tuning / Agent / Tool
 | [08-course-links.md](docs/08-course-links.md) | 官方课程、文档、学习顺序与取舍建议 |
 | [09-dama-dmbok2/README.md](docs/09-dama-dmbok2/README.md) | DAMA-DMBOK2 全书结构化知识库及 AI 项目映射 |
 | [09-facts-interview-question-bank-v3.md](docs/09-facts-interview-question-bank-v3.md) | **FACTS-E 3.0**：AI 项目、产品、数据、经营、MaaS、增长、多模态和机器人全场景面试体系 |
+| [09-facts-interview-question-bank-v3.1-upgrade-notes.md](docs/09-facts-interview-question-bank-v3.1-upgrade-notes.md) | **3.1 增量升级**：上下文工程、快速原型、Workflow/单 Agent/Multi-Agent 选型专项 |
 | [09-facts-interview-question-bank-v2.md](docs/09-facts-interview-question-bank-v2.md) | FACTS-E 2.0 归档：六维项目题与 30 张技术答案卡 |
 | [09-facts-interview-question-bank.md](docs/09-facts-interview-question-bank.md) | FACTS-E 1.0 归档版 |
 | [10-algorithm-engineering-interview-supplement.md](docs/10-algorithm-engineering-interview-supplement.md) | 算法岗补充：ML/NLP/Transformer、训练部署、Python 与手撕题 |
@@ -106,14 +108,17 @@ AI 方案选择：Prompt / Workflow / RAG / Fine-tuning / Agent / Tool
 5. 如何构建覆盖正常、异常、拒答、版本冲突和攻击样本的评测集？
 6. 如何计算检索质量、回答忠实度、任务成功率和业务结果？
 7. 如何在质量、时延、成本、体验和风险之间做取舍？
-8. 如何把一次 Demo 变成可持续迭代的生产系统？
-9. 如何定义北极星指标、埋点、漏斗和 A/B 测试？
-10. 如何设计 SaaS、API、任务或私有化收费模式？
-11. 如何计算模型成本、交付成本、毛利和 ROI？
-12. 如何推动 POC、交付、验收、使用、续费和扩容？
-13. 如何把客户定制沉淀为标准产品和平台能力？
-14. 如何覆盖 MaaS、ToC 增长、多模态和 AI 硬件等细分岗位？
-15. 如何通过真实项目证明自己的技术深度、产品判断和经营能力？
+8. 如何设计上下文来源、优先级、Token 预算、记忆和权限？
+9. 如何在一周内搭建并评测一个 AI 原型？
+10. 如何判断使用 Workflow、单 Agent 还是 Multi-Agent？
+11. 如何把一次 Demo 变成可持续迭代的生产系统？
+12. 如何定义北极星指标、埋点、漏斗和 A/B 测试？
+13. 如何设计 SaaS、API、任务或私有化收费模式？
+14. 如何计算模型成本、交付成本、毛利和 ROI？
+15. 如何推动 POC、交付、验收、使用、续费和扩容？
+16. 如何把客户定制沉淀为标准产品和平台能力？
+17. 如何覆盖 MaaS、ToC 增长、多模态和 AI 硬件等细分岗位？
+18. 如何通过真实项目证明自己的技术深度、产品判断和经营能力？
 
 ## 6. 推荐实践项目
 
@@ -122,7 +127,7 @@ AI 方案选择：Prompt / Workflow / RAG / Fine-tuning / Agent / Tool
 - 真实业务复杂度高，包含型号、固件、App 版本、错误码、设备状态和环境条件。
 - 既能发挥 ToB 流程、数据、规则和字段梳理优势，又能训练 RAG、评测和工程能力。
 - 可进一步补充 POC、定价、交付、续费、标准化和产品经营分析。
-- 可形成代码、数据模型、评测报告、业务报告、成本模型和项目复盘，适合求职展示。
+- 可形成代码、数据模型、上下文设计、原型实验、评测报告、成本模型和项目复盘，适合求职展示。
 
 详见：[工业设备多语言售后诊断系统项目蓝图](docs/07-industrial-support-project.md)。
 
