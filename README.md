@@ -91,6 +91,7 @@ AI 方案选择：Prompt / Workflow / RAG / Fine-tuning / Agent / Tool
 | [09-facts-interview-question-bank-v2.md](docs/09-facts-interview-question-bank-v2.md) | FACTS-E 2.0 归档：六维项目题与 30 张技术答案卡 |
 | [09-facts-interview-question-bank.md](docs/09-facts-interview-question-bank.md) | FACTS-E 1.0 归档版 |
 | [10-algorithm-engineering-interview-supplement.md](docs/10-algorithm-engineering-interview-supplement.md) | 算法岗补充：ML/NLP/Transformer、训练部署、Python 与手撕题 |
+| [BOS/reading-roadmap.md](docs/BOS/reading-roadmap.md) | **BOS 商业经营操作系统**：八大经营能力板块、AI 书单、12 周阅读与项目产出路线 |
 | [ai-product-interview-case-template-v3.md](templates/ai-product-interview-case-template-v3.md) | 3.0 项目深挖、产品设计、数据和商业案例统一模板 |
 | [ai-product-job-fit-scorecard-v3.md](templates/ai-product-job-fit-scorecard-v3.md) | JD 十维匹配评分、项目证据和面试准备清单 |
 | [project-assessment.md](templates/project-assessment.md) | AI 项目立项与岗位价值判断模板 |
