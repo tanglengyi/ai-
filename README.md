@@ -77,6 +77,7 @@ AI 方案选择：Prompt / Workflow / RAG / Fine-tuning / Agent
 | [07-industrial-support-project.md](docs/07-industrial-support-project.md) | 工业设备多语言售后诊断系统完整项目蓝图 |
 | [08-course-links.md](docs/08-course-links.md) | 官方课程、文档、学习顺序与取舍建议 |
 | [09-dama-dmbok2/README.md](docs/09-dama-dmbok2/README.md) | DAMA-DMBOK2 全书结构化知识库及 AI 项目映射 |
+| [09-facts-interview-question-bank.md](docs/09-facts-interview-question-bank.md) | FACTS-E 六维项目面试题、技术专项题、工业售后场景题与评分 Rubric |
 | [project-assessment.md](templates/project-assessment.md) | AI 项目立项与岗位价值判断模板 |
 | [evaluation-dataset-template.csv](templates/evaluation-dataset-template.csv) | AI 问答评测数据集字段模板 |
 | [dama-data-management-assessment.md](templates/dama-data-management-assessment.md) | DAMA 数据管理与 AI 项目上线评估模板 |
