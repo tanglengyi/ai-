@@ -2,7 +2,7 @@
 
 > 面向具有 ToB 产品、业务流程与数据梳理经验，希望从“知识库功能产品”升级为“懂技术、懂评测、懂业务结果”的 AI 应用型人才。
 
-最后核验学习链接：**2026-07-24**
+最后核验学习链接：**2026-07-26**
 
 ## 1. 这份仓库解决什么问题
 
@@ -77,7 +77,9 @@ AI 方案选择：Prompt / Workflow / RAG / Fine-tuning / Agent
 | [07-industrial-support-project.md](docs/07-industrial-support-project.md) | 工业设备多语言售后诊断系统完整项目蓝图 |
 | [08-course-links.md](docs/08-course-links.md) | 官方课程、文档、学习顺序与取舍建议 |
 | [09-dama-dmbok2/README.md](docs/09-dama-dmbok2/README.md) | DAMA-DMBOK2 全书结构化知识库及 AI 项目映射 |
-| [09-facts-interview-question-bank.md](docs/09-facts-interview-question-bank.md) | FACTS-E 六维项目面试题、技术专项题、工业售后场景题与评分 Rubric |
+| [09-facts-interview-question-bank-v2.md](docs/09-facts-interview-question-bank-v2.md) | **FACTS-E 2.0**：六维项目题、30 张技术答案卡、资料校正、场景题与评分 Rubric |
+| [09-facts-interview-question-bank.md](docs/09-facts-interview-question-bank.md) | FACTS-E 1.0 归档版 |
+| [10-algorithm-engineering-interview-supplement.md](docs/10-algorithm-engineering-interview-supplement.md) | 算法岗补充：ML/NLP/Transformer、训练部署、Python 与手撕题 |
 | [project-assessment.md](templates/project-assessment.md) | AI 项目立项与岗位价值判断模板 |
 | [evaluation-dataset-template.csv](templates/evaluation-dataset-template.csv) | AI 问答评测数据集字段模板 |
 | [dama-data-management-assessment.md](templates/dama-data-management-assessment.md) | DAMA 数据管理与 AI 项目上线评估模板 |
