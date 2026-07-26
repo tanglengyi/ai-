@@ -76,8 +76,10 @@ AI 方案选择：Prompt / Workflow / RAG / Fine-tuning / Agent
 | [06-12-week-roadmap.md](docs/06-12-week-roadmap.md) | 12 周学习计划、每周产出与验收标准 |
 | [07-industrial-support-project.md](docs/07-industrial-support-project.md) | 工业设备多语言售后诊断系统完整项目蓝图 |
 | [08-course-links.md](docs/08-course-links.md) | 官方课程、文档、学习顺序与取舍建议 |
+| [09-dama-dmbok2/README.md](docs/09-dama-dmbok2/README.md) | DAMA-DMBOK2 全书结构化知识库及 AI 项目映射 |
 | [project-assessment.md](templates/project-assessment.md) | AI 项目立项与岗位价值判断模板 |
 | [evaluation-dataset-template.csv](templates/evaluation-dataset-template.csv) | AI 问答评测数据集字段模板 |
+| [dama-data-management-assessment.md](templates/dama-data-management-assessment.md) | DAMA 数据管理与 AI 项目上线评估模板 |
 
 ## 5. 最终验收标准
 
